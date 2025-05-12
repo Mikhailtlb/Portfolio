@@ -1,0 +1,60 @@
+body {
+    background-color: #f0eff4 ;
+    height: 100%;
+    width: 100%;
+  }
+img {
+    display: inline-block;
+}
+
+.huidigepagina{
+    color: #960200 ;
+}
+.zwart{
+    color:#080E07;
+}
+.intro{
+    background-color: #960200;
+    color:#f0eff4;
+    padding: 20px;
+}
+.progress-bar.custom-color {
+    background-color: #960200;
+    color: #960200;
+}
+footer{
+    background-color:#080E07 ;
+    color: #f0eff4;
+}
+.portfoliolink{
+    color: #f0eff4;
+    background-color: #080E07;
+    padding: 10px;
+    margin: 5px;
+
+}
+.border-custom {
+    border: 2px solid #960200;
+    border-radius: 10px;
+  }
+  
+.btn-custom {
+    background-color: #960200;
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  .carousel img {
+    height: 400px;
+    object-fit: cover;
+  }
+
+aside i{
+    color: #960200;
+}
+.custom-textcolor{
+    color: #960200
+}
+.card-img-fixed {
+    height: 275px;
+    object-fit: cover;
+  }
