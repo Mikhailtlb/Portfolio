@@ -1,5 +1,5 @@
 // Maak een Leaflet-map met standaard marker voor AP Hogeschool Campus Ellermanstraat
-let mapP = L.map('mapP1').setView([51.230050, 4.417340], 15);
+let mapP = L.map('mapP1').setView([51.23009, 4.41616], 16);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 19,
